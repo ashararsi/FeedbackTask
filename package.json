@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.8.0",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0",
+        "vue": "^3.2.37"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^40.0.0",
+        "@ckeditor/ckeditor5-vue": "^5.1.0",
+        "@ckeditor/ckeditor5-vue2": "^3.0.1",
+        "firebase": "^10.6.0",
+        "floating-vue": "^2.0.0-beta.24",
+        "jquery": "^3.7.1",
+        "laravel-echo": "^1.15.3",
+        "summernote": "^0.8.20",
+        "vue-chat-emoji": "^1.1.27",
+        "vue-html-editor": "^0.2.1",
+        "vue-mention": "^2.0.0-alpha.3",
+        "vue-moment": "^4.1.0",
+        "vue3-summernote-editor": "^1.0.2"
+    }
+}
